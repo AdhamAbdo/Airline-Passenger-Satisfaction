@@ -8,3 +8,6 @@ into a dataset encompassing diverse aspects of air travel, aiming to unearth the
 underlying factors influencing passenger contentment. By scrutinizing variables 
 such as gender, customer type, age, travel class, and satisfaction ratings, we seek 
 a nuanced understanding of the passenger experience.
+
+
+
